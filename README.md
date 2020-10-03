@@ -3,7 +3,7 @@
 ## Tarea3_POO
 Se tiene un Diagrama UML que representa la estructura de un programa a partir de el se debera realizar lo siguiente--->
 
-*Instrucciones
+Instrucciones
 
 En la interface ComportamientoHumano
 + estudiar(): imprime Estoy haciendo la tarea de POO
@@ -13,6 +13,9 @@ el resto tiene que ver con la lista de canciones favorita de cada humano
 
 En la interface Acciones Comunes
 +dormir(): imprime Soy Nombre y estoy durmiendo (para hombre y mujer)
+
 +dormir(): imprime zzZZZzzzZZZzz (para gato y perro)
+
 +alimentarse(): imprime Estoy comiendo (para hombre y mujer)
+
 +alimentarse(): imprime mmmmm (para gato y perro)
