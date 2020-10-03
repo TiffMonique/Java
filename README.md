@@ -5,7 +5,8 @@ Se tiene un Diagrama UML que representa la estructura de un programa. A partir d
 
 ### Instrucciones
 
-En la interface Acciones Comunes
+#### En la interface Acciones Comunes
+
 +dormir(): imprime Soy Nombre y estoy durmiendo (para hombre y mujer)
 
 +dormir(): imprime zzZZZzzzZZZzz (para gato y perro)
@@ -14,7 +15,8 @@ En la interface Acciones Comunes
 
 +alimentarse(): imprime mmmmm (para gato y perro)
 
-En la interface ComportamientoHumano
+#### En la interface ComportamientoHumano
+
 +estudiar(): imprime Estoy haciendo la tarea de POO.
 
 +compararEdad(Humano): recibe un humano y devuelve el nombre del que tenga mayor edad.
