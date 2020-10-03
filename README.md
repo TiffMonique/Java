@@ -1,9 +1,9 @@
 # Proyectos Java
 
 ## Tarea3_POO
-Se tiene un Diagrama UML que representa la estructura de un programa a partir de el se debera realizar lo siguiente--->
+Se tiene un Diagrama UML que representa la estructura de un programa. A partir de él se deberá realizar lo siguiente--->
 
-** Instrucciones
+### Instrucciones
 
 En la interface Acciones Comunes
 +dormir(): imprime Soy Nombre y estoy durmiendo (para hombre y mujer)
