@@ -27,5 +27,7 @@ A partir de él se deberá realizar lo siguiente--->
 
 +trabajar(): imprime Seré el o la mejor ingeniero en Sistemas que ha existido con trabajo duro y principios correctos.
 
-El resto tiene que ver con la lista de canciones favorita de cada humano
+El resto tiene que ver con la lista de canciones favorita de cada humano.
+
+*PUEDES ENCONTRAR LA EXPLICACION DEL CODIGO EN EL SIGUIENTE ENLACE: https://www.youtube.com/watch?v=rwkhvnXujJQ&feature=youtu.be
 
