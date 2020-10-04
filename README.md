@@ -29,5 +29,5 @@ A partir de él se deberá realizar lo siguiente--->
 
 El resto tiene que ver con la lista de canciones favorita de cada humano.
 
-*PUEDES ENCONTRAR LA EXPLICACION DEL CODIGO EN EL SIGUIENTE ENLACE: https://www.youtube.com/watch?v=rwkhvnXujJQ&feature=youtu.be
+* PUEDES ENCONTRAR LA EXPLICACION DEL CODIGO EN EL SIGUIENTE ENLACE: https://www.youtube.com/watch?v=rwkhvnXujJQ&feature=youtu.be
 
