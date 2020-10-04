@@ -3,6 +3,7 @@
 ## Tarea3_POO
 Se tiene un Diagrama UML que representa la estructura de un programa. 
 <img src="Tarea3_POO/Diagrama_UML.png" width="950">
+
 A partir de él se deberá realizar lo siguiente--->
 
 ### Instrucciones
